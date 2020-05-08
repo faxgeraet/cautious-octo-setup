@@ -6,6 +6,7 @@ mpv
 celluloid
 streamlink
 lollypop
+goobox
 anki
 htop
 code
