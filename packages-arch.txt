@@ -17,3 +17,4 @@ papirus-icon-theme
 neofetch
 mesa
 mesa-vdpau
+lutris
