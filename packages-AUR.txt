@@ -1,0 +1,7 @@
+pamac-aur
+reaper-bin
+undistract-me-git
+marker
+marktext
+zoom
+gedit-scroll-past
