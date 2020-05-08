@@ -12,3 +12,8 @@ gsettings set org.gnome.settings-daemon.plugins.power lid-close-ac-action 'blank
 gsettings set org.gnome.settings-daemon.plugins.power lid-close-battery-action 'blank'
 gsettings set org.gnome.settings-daemon.plugins.color night-light-temperature 3500
 gsettings set org.gnome.settings-daemon.plugins.color night-light-enabled true
+
+# gedit
+org.gnome.gedit.preferences.editor insert-spaces true
+org.gnome.gedit.preferences.editor tabs-size 4
+org.gnome.gedit.plugins active-plugins "['time', 'scroll_past', 'modelines', 'filebrowser', 'docinfo', 'spell']"
