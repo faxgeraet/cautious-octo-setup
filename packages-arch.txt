@@ -21,6 +21,8 @@ mesa-vdpau
 lutris
 ttf-roboto-mono
 ttf-opensans
+noto-fonts
+noto-fonts-emoji
 gimp
 ffmpeg
 dconf-editor
