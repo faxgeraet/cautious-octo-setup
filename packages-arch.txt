@@ -18,3 +18,5 @@ neofetch
 mesa
 mesa-vdpau
 lutris
+ttf-roboto-mono
+ttf-opensans
