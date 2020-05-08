@@ -1,14 +1,15 @@
-# theming
+# interface
 gsettings set org.gnome.desktop.interface gtk-theme 'Materia-compact'
 gsettings set org.gnome.desktop.interface icon-theme 'Papirus'
-
-# fonts
-gsettings set org.gnome.settings-daemon.plugins.xsettings hinting 'slight'
-gsettings set org.gnome.settings-daemon.plugins.xsettings antialiasing 'rgba'
-gsettings set org.gnome.settings-daemon.plugins.xsettings rgba-order 'rgb'
+gsettings set org.gnome.desktop.wm.preferences button-layout 'appmenu:minimize,maximize,close'
 gsettings set org.gnome.desktop.interface monospace-font-name 'Roboto Mono 9.2998046875'
 gsettings set org.gnome.desktop.interface font-name 'Open Sans 9.3974609375'
 gsettings set org.gnome.desktop.interface document-font-name 'Open Sans 9.3984375'
+
+# font rendering
+gsettings set org.gnome.settings-daemon.plugins.xsettings hinting 'slight'
+gsettings set org.gnome.settings-daemon.plugins.xsettings antialiasing 'rgba'
+gsettings set org.gnome.settings-daemon.plugins.xsettings rgba-order 'rgb'
 
 # power
 gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-type 'nothing'
