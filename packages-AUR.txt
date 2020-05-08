@@ -6,3 +6,7 @@ marktext
 zoom
 gedit-scroll-past
 linvst-stable
+ttf-merriweather
+ttf-merriweather-sans
+otf-san-francisco
+otf-new-york
