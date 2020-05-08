@@ -20,3 +20,5 @@ mesa-vdpau
 lutris
 ttf-roboto-mono
 ttf-opensans
+gimp
+ffmpeg
