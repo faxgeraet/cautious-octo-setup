@@ -24,3 +24,6 @@ ttf-opensans
 gimp
 ffmpeg
 dconf-editor
+piper
+gpick
+gnome-tweaks
