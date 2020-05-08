@@ -5,3 +5,4 @@ marker
 marktext
 zoom
 gedit-scroll-past
+linvst-stable
