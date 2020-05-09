@@ -5,6 +5,7 @@ materia-gtk-theme
 mpv
 celluloid
 streamlink
+youtube-dl
 lollypop
 goobox
 anki
