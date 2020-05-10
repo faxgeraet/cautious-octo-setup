@@ -1,13 +1,23 @@
 artwork.filemask *cover*.jpg;*front*.jpg;*folder*.jpg;*cover*.png;*front*.png;*folder*.png
 cli_add_playlist_name Default
 deadbeef_version 1.8.3
-gtkui.columns.playlist [{"title":"♫","id":"1","format":"%playstatus%","sort_format":"","size":"50","align":"0","color_override":"0","color":"#ff000000"},{"title":"Künstler / Album","id":"-1","format":"$if(%artist%,%artist%,Unknown Artist)[ - %album%]","sort_format":"","size":"150","align":"0","color_override":"0","color":"#ff000000"},{"title":"Titelnr.","id":"-1","format":"%tracknumber%","sort_format":"","size":"50","align":"1","color_override":"0","color":"#ff000000"},{"title":"Titel","id":"-1","format":"%title%","sort_format":"","size":"150","align":"0","color_override":"0","color":"#ff000000"},{"title":"Dauer","id":"-1","format":"%length%","sort_format":"","size":"50","align":"0","color_override":"0","color":"#ff000000"}]
-gtkui.layout.0.6.2 vbox expand="0 1" fill="1 1" homogeneous=0 {waveform_seekbar {} playlist hideheaders=0 width=746 {} } 
+gtkui.columns.playlist [{"title":"♫","id":"1","format":"%playstatus%","sort_format":"","size":"50","align":"0","color_override":"0","color":"#ff000000"},{"title":"Titel","id":"-1","format":"%title%","sort_format":"","size":"176","align":"0","color_override":"0","color":"#ff000000"},{"title":"Dauer","id":"-1","format":"%length%","sort_format":"","size":"50","align":"0","color_override":"0","color":"#ff000000"}]
+gtkui.layout.0.6.2 vbox expand="0 1" fill="1 1" homogeneous=0 {waveform_seekbar {} playlist hideheaders=0 width=747 {} } 
 gtkui.statusbar.visible 1
 gtkui.tabscroll 0
 gtkui.titlebar_playing_tf %artist% - %title% - DeaDBeeF-%_deadbeef_version%
 gtkui.titlebar_stopped_tf DeaDBeeF-%_deadbeef_version%
 gui_plugin GTK3
+headerbarui.button_spacing 6
+headerbarui.combined_playpause 1
+headerbarui.disable 0
+headerbarui.embed_menubar 0
+headerbarui.hide_seekbar_on_streaming 0
+headerbarui.show_designmode_button 0
+headerbarui.show_preferences_button 0
+headerbarui.show_seek_bar 0
+headerbarui.show_stop_button 1
+headerbarui.show_volume_button 1
 hotkey.key01 "Ctrl f" 0 0 find
 hotkey.key02 "Ctrl o" 0 0 open_files
 hotkey.key03 "Ctrl q" 0 0 quit
@@ -42,9 +52,9 @@ hotkey.key32 "Ctrl k" 0 0 toggle_stop_after_album
 hotkeys_created 1
 mainwin.geometry.h 237
 mainwin.geometry.maximized 0
-mainwin.geometry.w 978
-mainwin.geometry.x 1490
-mainwin.geometry.y 1082
+mainwin.geometry.w 747
+mainwin.geometry.x 1778
+mainwin.geometry.y 1122
 network.proxy.port 8080
 output_plugin alsa
 playback.loop 1
@@ -59,11 +69,11 @@ playlist.tab.00000 Standard
 playlist.tab.00001 Default
 prefwin.geometry.h 644
 prefwin.geometry.w 780
-prefwin.geometry.x 1088
-prefwin.geometry.y 694
+prefwin.geometry.x 1712
+prefwin.geometry.y 764
 resume.paused 0
 resume.playlist 1
-resume.position 38.532524
+resume.position 67.291702
 resume.track 0
 spectrogram.color.gradient_00 65535 0 0
 spectrogram.color.gradient_01 65535 32896 0
