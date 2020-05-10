@@ -30,3 +30,5 @@ dconf-editor
 piper
 gpick
 gnome-tweaks
+python-nautilus # tilix context menu
+tilix
