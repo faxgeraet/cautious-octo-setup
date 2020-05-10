@@ -7,6 +7,7 @@ celluloid
 streamlink
 youtube-dl
 lollypop
+deadbeef
 goobox
 anki
 htop
