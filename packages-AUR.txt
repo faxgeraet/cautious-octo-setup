@@ -13,4 +13,3 @@ otf-san-francisco
 otf-new-york
 ttf-bitstream-charter
 deadbeef-plugin-headerbar-gtk3-git
-deadbeef-plugin-waveform-gtk3-git
