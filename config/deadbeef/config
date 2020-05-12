@@ -2,7 +2,7 @@ artwork.filemask *cover*.jpg;*front*.jpg;*folder*.jpg;*cover*.png;*front*.png;*f
 cli_add_playlist_name Default
 deadbeef_version 1.8.3
 gtkui.columns.playlist [{"title":"♫","id":"1","format":"%playstatus%","sort_format":"","size":"50","align":"0","color_override":"0","color":"#ff000000"},{"title":"Titel","id":"-1","format":"%title%","sort_format":"","size":"176","align":"0","color_override":"0","color":"#ff000000"},{"title":"Dauer","id":"-1","format":"%length%","sort_format":"","size":"50","align":"0","color_override":"0","color":"#ff000000"}]
-gtkui.layout.0.6.2 vbox expand="0 1" fill="1 1" homogeneous=0 {waveform_seekbar {} playlist hideheaders=0 width=747 {} } 
+gtkui.layout.0.6.2 vbox expand="1" fill="1" homogeneous=0 {playlist hideheaders=0 width=746 {} } 
 gtkui.statusbar.visible 1
 gtkui.tabscroll 0
 gtkui.titlebar_playing_tf %artist% - %title% - DeaDBeeF-%_deadbeef_version%
@@ -15,7 +15,7 @@ headerbarui.embed_menubar 0
 headerbarui.hide_seekbar_on_streaming 0
 headerbarui.show_designmode_button 0
 headerbarui.show_preferences_button 0
-headerbarui.show_seek_bar 0
+headerbarui.show_seek_bar 1
 headerbarui.show_stop_button 1
 headerbarui.show_volume_button 1
 hotkey.key01 "Ctrl f" 0 0 find
@@ -50,11 +50,11 @@ hotkey.key30 b 0 0 next
 hotkey.key31 n 0 0 playback_random
 hotkey.key32 "Ctrl k" 0 0 toggle_stop_after_album
 hotkeys_created 1
-mainwin.geometry.h 237
+mainwin.geometry.h 388
 mainwin.geometry.maximized 0
-mainwin.geometry.w 747
-mainwin.geometry.x 1778
-mainwin.geometry.y 1122
+mainwin.geometry.w 746
+mainwin.geometry.x 1663
+mainwin.geometry.y 860
 network.proxy.port 8080
 output_plugin alsa
 playback.loop 1
@@ -69,11 +69,11 @@ playlist.tab.00000 Standard
 playlist.tab.00001 Default
 prefwin.geometry.h 644
 prefwin.geometry.w 780
-prefwin.geometry.x 1712
-prefwin.geometry.y 764
-resume.paused 0
+prefwin.geometry.x 1112
+prefwin.geometry.y 689
+resume.paused 1
 resume.playlist 1
-resume.position 67.291702
+resume.position 95.975563
 resume.track 0
 spectrogram.color.gradient_00 65535 0 0
 spectrogram.color.gradient_01 65535 32896 0
