@@ -27,6 +27,7 @@ ttf-opensans
 noto-fonts
 noto-fonts-emoji
 gimp
+inkscape
 ffmpeg
 android-tools
 dconf-editor
