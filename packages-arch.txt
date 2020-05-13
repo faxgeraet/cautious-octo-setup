@@ -28,6 +28,7 @@ noto-fonts
 noto-fonts-emoji
 gimp
 ffmpeg
+android-tools
 dconf-editor
 piper
 gpick
