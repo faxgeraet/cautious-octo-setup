@@ -14,3 +14,4 @@ otf-new-york
 ttf-bitstream-charter
 deadbeef-plugin-headerbar-gtk3-git
 droidcam
+brother-hll2300d
