@@ -37,6 +37,7 @@ gnome-tweaks
 python-nautilus # tilix context menu
 tilix
 grsync
+x11-ssh-askpass
 python-pylint
 python-black
 
