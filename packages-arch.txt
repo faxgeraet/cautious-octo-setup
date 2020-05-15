@@ -17,6 +17,7 @@ gnome-backgrounds
 gnome-shell-extensions
 gdm
 simplescreenrecorder
+pulseeffects
 papirus-icon-theme
 neofetch
 mesa
@@ -40,4 +41,4 @@ grsync
 x11-ssh-askpass
 python-pylint
 python-black
-
+discord
