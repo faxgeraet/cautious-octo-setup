@@ -1,4 +1,3 @@
-pamac-aur
 reaper-bin
 tuxguitar
 undistract-me-git
