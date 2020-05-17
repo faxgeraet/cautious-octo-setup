@@ -10,6 +10,7 @@ lollypop
 audacity
 deadbeef
 goobox
+gnome-sound-recorder
 anki
 htop
 code
