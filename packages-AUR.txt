@@ -1,6 +1,7 @@
 reaper-bin
 tuxguitar
 undistract-me-git
+gnome-shell-pomodoro
 marker
 marktext
 zoom
