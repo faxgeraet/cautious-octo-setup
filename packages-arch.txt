@@ -18,7 +18,6 @@ gnome-backgrounds
 gnome-shell-extensions
 gdm
 simplescreenrecorder
-pulseeffects
 papirus-icon-theme
 neofetch
 mesa
